@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GalagaUSFX_Trabajo04.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B4483E05-CF5C-4693-ABFE-3A2BCF7705D0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GalagaUSFX_Trabajo04.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GalagaUSFX_Trabajo04Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CFABD1FB-324A-4DA9-9E1C-23A86842F212}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GalagaUSFX_Trabajo04">
+      <UniqueIdentifier>{51FD07DE-D310-48C7-961F-44EF5CA13982}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04.Build.cs">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04GameMode.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04GameMode.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04Pawn.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04Pawn.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04Projectile.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04Projectile.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\IEscape.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\IEscape.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\NaveEnemiga.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\NaveEnemiga.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\NaveEnemigaCazador.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\NaveEnemigaCazador.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\NaveEnemigaKamikaze.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\NaveEnemigaKamikaze.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\NaveEnemigaTilin.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\NaveEnemigaTilin.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\Publisher.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\Publisher.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\Radar.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\Radar.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX_Trabajo04\Subscriber.cpp">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX_Trabajo04\Subscriber.h">
+      <Filter>Source\GalagaUSFX_Trabajo04</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

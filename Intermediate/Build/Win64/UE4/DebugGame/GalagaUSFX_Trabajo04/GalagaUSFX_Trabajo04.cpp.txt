@@ -1,0 +1,2 @@
+C:\SIS457\GalagaUSFX_Trabajo04\Intermediate\Build\Win64\UE4\DebugGame\GalagaUSFX_Trabajo04\Definitions.GalagaUSFX_Trabajo04.h
+C:\SIS457\GalagaUSFX_Trabajo04\Source\GalagaUSFX_Trabajo04\GalagaUSFX_Trabajo04.h
